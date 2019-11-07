@@ -104,3 +104,5 @@ C:\Users\LuisGutierrez\GigHub\GigHub\GigHub\obj\Debug\GigHub.dll
 C:\Users\LuisGutierrez\GigHub\GigHub\GigHub\obj\Debug\GigHub.pdb
 C:\Users\LuisGutierrez\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.InitialModel.resources
 C:\Users\LuisGutierrez\GigHub\GigHub\GigHub\obj\Debug\GigHub.csproj.GenerateResource.cache
+C:\Users\LuisGutierrez\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
+C:\Users\LuisGutierrez\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.OverrideConventionsForGigsAndGenres.resources
