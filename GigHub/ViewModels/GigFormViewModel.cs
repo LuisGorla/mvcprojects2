@@ -13,7 +13,7 @@ namespace GigHub.ViewModels
 
 
         //with dropdown list we need numeric value for each option
-        public int Genre { get; set; }
+        public byte Genre { get; set; }
         public IEnumerable<Genre> Genres { get; set; }
 
     }
