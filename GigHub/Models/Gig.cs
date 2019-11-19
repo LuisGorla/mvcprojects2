@@ -10,9 +10,13 @@ namespace GigHub.Models
         public int Id { get; set; }
        
         //Required make this attributes or propperties not null AKA cant be null/ not nullable
-        [Required]
         public ApplicationUser Artist { get; set; }
-       
+
+        //Required make this attributes or propperties not null AKA cant be null/ not nullable
+        [Required]
+
+        //This FK property is string because ID in ApplicationUser(wich is an ASP.NET identity class) is define as String as string 
+        public string ArtistId { get; set; }
         public DateTime DateTime { get; set; }
 
 
@@ -21,8 +25,10 @@ namespace GigHub.Models
         [StringLength(255)]
         public string Venue { get; set; }
 
+        
+        public Genre Genre { get; set; }
         //Each required attribute means a line break
         [Required]
-        public Genre Genre { get; set; }
+        public byte GenreId { get; set; }
     }
 }
