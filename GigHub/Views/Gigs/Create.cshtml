@@ -11,6 +11,8 @@
 @*action-controller*@
 @using (Html.BeginForm("Create", "Gigs"))
 {
+    <p>All fields are <strong>required</strong>.</p>
+
     //Validation place holder for each input field
     //AntiForgery token
     @Html.AntiForgeryToken()
