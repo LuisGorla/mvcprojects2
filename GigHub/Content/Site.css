@@ -22,7 +22,22 @@ select,
 textarea {
     max-width: 280px;
 }
-
+#Venue-error {
+    color: red;
+    font-weight: bold;
+}
+#Date-error {
+    color: red;
+    font-weight: bold;
+}
+#Time-error {
+    color: red;
+    font-weight: bold;
+}
+#Genre-error {
+    color: red;
+    font-weight: bold;
+}
 /*Bootstrap Overrides*/
 .navbar-inverse {
     background-color: #f67280;
