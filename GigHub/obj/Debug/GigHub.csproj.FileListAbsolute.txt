@@ -108,3 +108,4 @@ C:\Users\LuisGutierrez\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGi
 C:\Users\LuisGutierrez\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.OverrideConventionsForGigsAndGenres.resources
 C:\Users\LuisGutierrez\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
 C:\Users\LuisGutierrez\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddForeignKeyPropertiesToGig.resources
+C:\Users\LuisGutierrez\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.workarround.resources
